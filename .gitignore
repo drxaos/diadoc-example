@@ -1,5 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 
+data/*
+!data/example
+config.groovy
+
 .idea
 *.iml
 
